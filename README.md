@@ -3,7 +3,9 @@
 Welcome to the Gas Station Checkout System!
 This is a simple web application that allows you to purchase items from our gas station.
 
-***Features Receipt column***
+***
+Features Receipt column
+---
 On the left-hand side of the page, you will find a receipt column. This will display all the items you have selected for purchase, along with the prices, basket count, and total price.
 
 
@@ -19,7 +21,9 @@ The middle column displays all the items that are available for purchase in the 
 **Gas pumps:** At the bottom of the page, there are six gas pumps available for use.
 
 
-***Getting Started***
+***
+Getting Started
+---
 To use the Gas Station Checkout System, simply navigate to the website and start selecting the items you want to purchase. You can use the search button to quickly find the items you need. If you also need to fill up your vehicle with gas, select one of the six gas pumps available at the bottom of the page, this amount will be in the receipt column.
 
 Once you have selected all the items you want to purchase, enter the amount which the customer has given to you and calculate the change amount. The total amount due will be displayed in the receipt column.Press new for calculating the bill of the next customer.
