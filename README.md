@@ -5,7 +5,7 @@ This is a simple web application that allows you to purchase items from our gas 
 
 ***
 Features Receipt column
----
+***
 On the left-hand side of the page, you will find a receipt column. This will display all the items you have selected for purchase, along with the prices, basket count, and total price.
 
 
